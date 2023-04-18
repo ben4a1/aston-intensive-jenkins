@@ -15,7 +15,7 @@
     <name>aston-intensive-jenkins</name>
     <description>aston-intensive-jenkins</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
