@@ -1,4 +1,4 @@
-package by.paramonov.jenkins;
+package by.paramonov.jenkins.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
