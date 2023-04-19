@@ -1,4 +1,4 @@
-package by.paramonov.jenkins.controller;
+package by.paramonov.jenkins;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -8,6 +8,6 @@ public class SimpleController {
 
     @RequestMapping("/answer")
     public String varText() {
-        return "They Killed Kenny!";
+        return "They killed Kenny!";
     }
 }
