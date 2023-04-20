@@ -8,6 +8,6 @@ public class SimpleController {
 
     @RequestMapping("/answer")
     public String varText() {
-        return "They killed Kenny!";
+        return "They killed Kenny! at 12-31";
     }
 }
